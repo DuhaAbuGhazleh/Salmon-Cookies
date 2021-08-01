@@ -1,0 +1,29 @@
+body{
+    padding: 60px;
+    } 
+    
+    body {
+      background-color: #c3e5f5a8;
+    }
+
+    img {
+        border-radius: 8px;
+        padding: 5px;
+        width:250px;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+      }
+
+
+#blue {
+    position: sticky;
+    left: 520px;
+  color:rgb(58, 24, 121);
+  font-size: 40px;
+  text-align: center;
+   width:500px;
+   margin: 0 auto;
+        
+  }
+ 
