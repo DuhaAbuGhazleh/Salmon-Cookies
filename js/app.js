@@ -260,7 +260,7 @@ let articleElement = document.createElement('article');
 cookiesInfo.appendChild(articleElement);
 let tableelement = document.createElement('table');
 articleElement.appendChild(tableelement);
-tableelement.setAttribute("border","2");
+tableelement.setAttribute('border','2');
 let trHead=document.createElement('tr');
 
 tableelement.appendChild(trHead);
@@ -359,7 +359,7 @@ function footer (){
   for( let i =0 ; i< finalColumnArray.length ; i++){
 
 
-   
+
     let td = document.createElement('th');
     td.textContent = finalColumnArray[i];
     trRow.appendChild(td);
