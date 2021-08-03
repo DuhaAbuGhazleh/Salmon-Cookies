@@ -1,4 +1,5 @@
 body{
+ 
     padding: 60px;
     } 
     
@@ -26,4 +27,60 @@ body{
    margin: 0 auto;
         
   }
- 
+section{
+  margin-top: 80px;
+}
+
+article{
+  margin-bottom: 30px;
+}
+
+h2{
+  color: rgb(3, 3, 39);
+  font-size: 40px;
+}
+
+ul li {
+
+  color: rgb(59, 71, 15);
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.button{
+  border-radius: 50px;
+  background-color: cornflowerblue;
+  text-decoration: none;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+section image{
+  border-radius: 8px;
+        padding: 5px;
+       
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgGrid{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 30px;
+}
+
+
+nav{
+  float:right;
+}
+
+a:link {
+  display: -webkit-inline-box;
+  text-align:center;
