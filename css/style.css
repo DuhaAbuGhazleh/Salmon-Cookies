@@ -38,6 +38,8 @@ article{
 h2{
   color: rgb(3, 3, 39);
   font-size: 40px;
+
+  font-family:  Helvetica;
 }
 
 ul li {
@@ -84,4 +86,9 @@ nav{
 a:link {
   display: -webkit-inline-box;
   text-align:center;
+}
+
+
+h1{
+ 
 }

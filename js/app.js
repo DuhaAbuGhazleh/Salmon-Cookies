@@ -138,12 +138,12 @@ function submitHandler(event) {
 
   event.preventDefault();
 
-  let nameN = event.target.name.value;
+  let name = event.target.name.value;
   let min = event.target.min.value;
   let max = event.target.max.value;
   let avg = event.target.avg.value;
 
-  let newArea = new SalmonCookies(nameN , max , min , avg);
+  let newArea = new SalmonCookies(name , max , min , avg);
 
 
   newArea.gitCookies();
