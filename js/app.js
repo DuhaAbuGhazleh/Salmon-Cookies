@@ -171,7 +171,7 @@ function footerOfTable2 (){
   for(let i=0 ; i <hours.length ;i++){
     let TotalOfHour =0;
     for(let j=0 ; j<ALLtotal.length ; j++){
-      TotalOfHour += ALLtotal[j].cookiesperh[i];
+      Math.abs(TotalOfHour += ALLtotal[j].cookiesperh[i]);
 
     }
     const totalElement =document.createElement('td');
