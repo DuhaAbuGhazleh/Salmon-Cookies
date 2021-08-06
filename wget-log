@@ -1,0 +1,9 @@
+--2021-08-06 21:51:01--  https://update.code.visualstudio.com/commit:379476f0e13988d90fab105c5c19e7abc8b1dea8/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 51.144.164.215
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|51.144.164.215|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://az764295.vo.msecnd.net/stable/379476f0e13988d90fab105c5c19e7abc8b1dea8/vscode-server-linux-x64.tar.gz [following]
+--2021-08-06 21:51:06--  https://az764295.vo.msecnd.net/stable/379476f0e13988d90fab105c5c19e7abc8b1dea8/vscode-server-linux-x64.tar.gz
+Resolving az764295.vo.msecnd.net (az764295.vo.msecnd.net)... 152.199.19.160
+Connecting to az764295.vo.msecnd.net (az764295.vo.msecnd.net)|152.199.19.160|:443... connected.
+Unable to establish SSL connection.
