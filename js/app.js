@@ -8,9 +8,9 @@ function SalmonCookies (name , max , min , avg){
   this.name = name;
   this.cookiesperh =[];
   this.total = 0;
-  this.max = max;
-  this.min = min	;
-  this.avg =avg ;
+  this.max = Number(max) ;
+  this.min = Number(min) 	;
+  this.avg =Number(avg) ;
   this.sales=0;
   ALLtotal.push(this);
 
